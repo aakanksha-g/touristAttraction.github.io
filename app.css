@@ -17,8 +17,8 @@ color: rgb(223, 103, 73);
   }
 .navbar ul li {
     display: inline-block;
-    margin-left: 8rem;
-    margin-right: 10px;
+    margin-left: 0rem;
+    margin-right: 0px;
     margin-top: 19px;
     font-size: 30px;
   }
